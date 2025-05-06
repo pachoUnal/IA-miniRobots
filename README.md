@@ -40,9 +40,3 @@
 [Entrega5](Entrega5)
 
 
-
-
-
-
-
-[Poner link]
