@@ -19,7 +19,7 @@
 
 ### Entrega 1
 
-[Poner link]
+[Entrega1](Entrega1)
 
 ### Entrega 2
 
