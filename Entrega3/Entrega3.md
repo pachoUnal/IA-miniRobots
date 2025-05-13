@@ -20,7 +20,7 @@ puede generar 3, 6, 5 y 4 GW al día respectivamente. Las necesidades de Cali, B
 Barranquilla son de 4, 3, 5 y 3 GW al día respectivamente. Los costos por el transporte de energía
 por cada GW entre plantas y ciudades se dan en la siguiente tabla: <br>
 | Planta | Cali | Bogotá | Medellín | Barranq. |
-| :----------: | :---: | :---: | :---: | :---: |
+|:----------:|:---:|:---:|:---:|:---:|
 | Planta C | 1 | 4 | 3 | 6 |
 | Planta B | 4 | 1 | 4 | 5 |
 | Planta M | 3 | 4 | 1 | 4 |
