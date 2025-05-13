@@ -65,7 +65,7 @@ Para el diagrama de Voronoi se tomaron las Farmacias de Chinquirá, Boyacá, adq
 <br>
 <br>
 <br>
-
+4. Imprima un AC 1D en una impresora 3D.
 
 
 
