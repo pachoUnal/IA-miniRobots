@@ -21,17 +21,17 @@ Barranquilla son de 4, 3, 5 y 3 GW al día respectivamente. Los costos por el tr
 por cada GW entre plantas y ciudades se dan en la siguiente tabla: <br>
 | Planta | Cali | Bogotá | Medellín | Barranq. |
 | :----------: | :---: | :---: | :---: | :---: |
-Planta C 1 4 3 6
-Planta B 4 1 4 5
-Planta M 3 4 1 4
-Planta B 6 5 4 1
+| Planta C | 1 | 4 | 3 | 6 |
+| Planta B | 4 | 1 | 4 | 5 |
+| Planta M | 3 | 4 | 1 | 4 |
+| Planta B | 6 | 5 | 4 | 1 |
 Los costos del KW-H por generador se dan en la siguiente tabla: <br>
 | Generador | $KW-H |
 | :----------: | :-----: |
-Planta C 680
-Planta B 720
-Planta M 660
-Planta B 750
+| Planta C | 680 |
+| Planta B | 720 |
+| Planta M | 660 |
+| Planta B | 750 |
 Encontrar usando AGs el mejor despacho de energía minimizando los costos de transporte y
 generación. <br>
 <br>
