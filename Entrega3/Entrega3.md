@@ -18,7 +18,9 @@ ese poder, usando AGs. <br>
 satisfacer la demanda diaria de energía eléctrica en Cali, Bogotá, Medellín y Barranquilla. Cada una
 puede generar 3, 6, 5 y 4 GW al día respectivamente. Las necesidades de Cali, Bogotá, Medellín y
 Barranquilla son de 4, 3, 5 y 3 GW al día respectivamente. Los costos por el transporte de energía
-por cada GW entre plantas y ciudades se dan en la siguiente tabla:
+por cada GW entre plantas y ciudades se dan en la siguiente tabla
+<br>
+
 | Planta   | Cali | Bogotá | Medellín | Barranquilla |
 |:--------:|:----:|:------:|:--------:|:------------:|
 | Planta C |  1   |   4    |    3     |      6       |
@@ -27,12 +29,14 @@ por cada GW entre plantas y ciudades se dan en la siguiente tabla:
 | Planta B |  6   |   5    |    4     |      1       |
 <br>
 Los costos del KW-H por generador se dan en la siguiente tabla: <br>
+
 | Generador | KW-H |
 | :----------: | :-----: |
 | Planta C | 680 |
 | Planta B | 720 |
 | Planta M | 660 |
 | Planta B | 750 |
+<br>
 Encontrar usando AGs el mejor despacho de energía minimizando los costos de transporte y
 generación. <br>
 <br>
