@@ -6,7 +6,7 @@
       <strong> Autores:</strong>
       <ul>
         <li>Francisco Josse Roja Rojas (frrojasr@unal.edu.co) </li>
-        <li>Estudiante Ingeniería Electrica</li>
+        <li>Estudiante Ingeniería Electrónica</li>
         <li>Yeira Liseth Rodríguez Rodríguez (yrodriguezro@unal.edu.co)</li>
         <li>Estudiante Ingeniería Mecatrónica</li>
       </ul>
