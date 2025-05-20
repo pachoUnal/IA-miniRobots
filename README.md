@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td>
-      <img src="[Images/robotIA.jpg])" width="400">
+      <img src="Images/robotIA.jpg" width="400">
     </td>
   </tr>
 </table>
