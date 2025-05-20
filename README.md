@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td>
-      <img src="[Images/Portada.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FInteligencia_artificial&psig=AOvVaw0JOtLBRA5MQqj2axUcRV34&ust=1747154425152000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjwhMqvno0DFQAAAAAdAAAAABAE)" width="400">
+      <img src="[Images/robotIA.jpg])" width="400">
     </td>
   </tr>
 </table>
