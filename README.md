@@ -5,10 +5,10 @@
       <h2>Entregas y tareas </h2>
       <strong> Autores:</strong>
       <ul>
-        <li>Francisco Josse Roja Rojas </li>
-        <li> frrojasr@unal.edu.co</li>
-        <li>Yeira Liseth Rodríguez Rodríguez</li>
-        <li> yrodriguezro@unal.edu.co </li>
+        <li>Francisco Josse Roja Rojas (frrojasr@unal.edu.co) </li>
+        <li>Estudiante Ingeniería Electrica</li>
+        <li>Yeira Liseth Rodríguez Rodríguez (yrodriguezro@unal.edu.co)</li>
+        <li>  </li>
       </ul>
     </td>
     <td>
