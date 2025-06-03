@@ -1,4 +1,9 @@
-# 1.1 - 1.3 Definiciones de Inteligencia Artificial por Diferentes Modelos de Lenguaje
+# Entrega 1
+Autores:
+<li>Francisco Josse Roja Rojas (frrojasr@unal.edu.co) Estudiante Ingeniería Electrónica</li> 
+<li>Yeira Liseth Rodríguez Rodríguez (yrodriguezro@unal.edu.co) Estudiante Ingeniería Mecatrónica</li>
+
+## 1.1 - 1.3 Definiciones de Inteligencia Artificial por Diferentes Modelos de Lenguaje
 
 ### ChatGPT
 > La Inteligencia Artificial (IA) es el campo de estudio de la informática que se enfoca en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el razonamiento, el aprendizaje, la percepción, la toma de decisiones y la comprensión del lenguaje.  
@@ -15,13 +20,13 @@
 
 ---
 
-# 1.2 Definición Propia de Inteligencia Artificial
+## 1.2 Definición Propia de Inteligencia Artificial
 
 Es un sistema que busca imitar las capacidades humanas de razonamiento, análisis y resolución de problemas mediante distintas estructuras computacionales.
 
 ---
 
-# 1.4 Análisis del Video
+## 1.4 Análisis del Video
 
 > Video: [¿Qué es la Inteligencia Artificial? - YouTube](https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s)
 
@@ -29,7 +34,7 @@ La primera noticia habla sobre lo 'Xenobot', robots vivos diseñados por computa
 
 ---
 
-# 1.5 Planes del Gobierno Colombiano con Respecto a la IA
+## 1.5 Planes del Gobierno Colombiano con Respecto a la IA
 
 El Gobierno colombiano ha adoptado una estrategia integral para el desarrollo y la adopción ética de la Inteligencia Artificial mediante la aprobación del **CONPES 4144**, que establece la **Política Nacional de Inteligencia Artificial 2025-2030**.
 
