@@ -42,4 +42,4 @@
 
    Para el diagrama de Voronoi se tomaron las Farmacias de Sogamoso, Boyacá, adquirido por medio de Google Maps.
 
-   ![Droguería Sogamoso](https://github.com/pachoUnal/IA-miniRobots/blob/main/Entrega2/droguerías%20sogamoso.png)
+   ![Droguerías Sogamoso](https://github.com/pachoUnal/IA-miniRobots/blob/b20b70eecc04956b9440eb32120b143b21151f27/Entrega2/drogueri%CC%81as%20sogamoso.png)
