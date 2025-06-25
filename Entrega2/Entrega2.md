@@ -36,10 +36,10 @@
 
    Este comportamiento puede representarse como una máquina de estados finitos o como un sistema reactivo basado en reglas.
 
-   El código se encuentra en el siguiente link de Google Collab: [AC's probabílisticos]()
+   El código se encuentra en la misma carpeta [ROBOT](https://github.com/pachoUnal/IA-miniRobots/blob/main/Entrega2/IA_LAB2_ROBOT_AUTOMATA.ipynb)
 
 3. Tome el plano de una ciudad pequeña y localice, por ejemplo, las droguerías, o colegios. ¿Es posible que falte alguno en la ciudad? Incluya información adicional como densidad de personas. Utilice diagramas de Voronoi.
 
    Para el diagrama de Voronoi se tomaron las Farmacias de Sogamoso, Boyacá, adquirido por medio de Google Maps.
 
-   ![Droguería Sogamoso]([https://github.com/pachoUnal/IA-miniRobots/blob/main/Entrega2/droguer%C3%ADas%20sogamoso.png](https://github.com/pachoUnal/IA-miniRobots/blob/main/Entrega2/droguerías%20sogamoso.png))
+   ![Droguería Sogamoso](https://github.com/pachoUnal/IA-miniRobots/blob/main/Entrega2/droguerías%20sogamoso.png)
