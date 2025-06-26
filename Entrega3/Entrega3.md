@@ -2,6 +2,7 @@ Desarrolle tres ejercicios de los 6 propuestos, utilice todas las librerías y h
 <br>
 <br>
 1. Maximizar la función 𝑓(𝑥) = 𝑥 𝑠𝑒𝑛(10 π x) + 1, con 𝑥 ∈ [0,1].<br>
+En el siguiente código se encuentra el código correspondiente al primer ejercicio [maxFunction](Entrega3/maxFunction.cpp)
 <br>
 <br>
 2. Verdadera democracia. Suponga que usted es el jefe de gobierno y está interesado en que pasen
