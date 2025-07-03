@@ -95,7 +95,7 @@ Los costos del KW-H por generador se dan en la siguiente tabla: <br>
 <br>
 Encontrar usando AGs el mejor despacho de energía minimizando los costos de transporte y generación. <br>
 <br>
-En el siguiente código se encuentra el código correspondiente al primer ejercicio [DespachoDeEnergia](Entrega3/DespachoDeEnergía.ipynb) o en un cuaderno en Google Collab [GoogleCollab_DespachoDeEnergia](https://colab.research.google.com/drive/1SAD6NVeu_025cVRv5mBh0_QFxKnV0_KV?usp=sharing)
+En el siguiente código se encuentra el código correspondiente al primer ejercicio [DespachoDeEnergia](Entrega3/DespachoDeEnergia.ipynb) o en un cuaderno en Google Collab [GoogleCollab_DespachoDeEnergia](https://colab.research.google.com/drive/1SAD6NVeu_025cVRv5mBh0_QFxKnV0_KV?usp=sharing)
 <br>
 Explicación del código
 <br>
