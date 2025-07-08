@@ -39,4 +39,12 @@
 
 [Entrega5](Entrega5)
 
+### Entrega 6
+
+[Entrega6](Entrega6)
+
+### Entrega 7
+
+[Entrega7](Entrega7)
+
 
