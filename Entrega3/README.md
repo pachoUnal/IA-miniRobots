@@ -7,6 +7,7 @@
 A continuación se encuentran los enlaces del desarrollo de tres ejercicios de los 6 propuestos, según el enunciado en el capítulo 3. 
 <br>
 <br>
+
 ### 1. Maximizar la función 𝑓(𝑥) = 𝑥 𝑠𝑒𝑛(10 π x) + 1, con 𝑥 ∈ [0,1].<br>
 En el siguiente código se encuentra el archivo correspondiente al primer ejercicio [maxFunction](Entrega3/MaximizarFuncion.ipynb) o en un cuaderno en Google Collab [GoogleCollab_maxFunction](https://colab.research.google.com/drive/1iavzqVRqT_YKZZ6GAoQbHitQTUXyChLb?authuser=1)
 <br>
