@@ -1,3 +1,7 @@
+* Francisco Josse Roja Rojas (frrojasr@unal.edu.co)
+* Yeira Liseth Rodríguez Rodríguez (yrodriguezro@unal.edu.co)
+<br>
+<br>
 A continuación se encuentran los enlaces del desarrollo de tres ejercicios de los 6 propuestos, según el enunciado en el capítulo 3. 
 <br>
 <br>
