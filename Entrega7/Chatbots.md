@@ -1,6 +1,5 @@
 #### 1. Resumen de texto
-🧩 Herramienta: ChatGPT (versión gratuita - GPT-3.5)
-Descripción: ChatGPT permite ingresar textos y pedirle que los resuma, ya sea por puntos clave o de forma narrativa.
+**Herramienta: ChatGPT (versión gratuita - GPT-3.5)** ChatGPT permite ingresar textos y pedirle que los resuma, ya sea por puntos clave o de forma narrativa.
 <br>
 Ventajas:
 <li>Acceso web sin necesidad de instalación.</li>
@@ -14,8 +13,8 @@ Desventajas:
 <br>
 Referencia: OpenAI. (2023). ChatGPT. https://chat.openai.com/
 <br>
-🧩 Herramienta: SMMRY
-Descripción: Página web sencilla que resume textos pegados directamente o subidos como archivo.
+
+**Herramienta: SMMRY** Página web sencilla que resume textos pegados directamente o subidos como archivo.
 <br>
 Ventajas:
 <li>Muy fácil de usar.</li>
@@ -25,10 +24,10 @@ Desventajas:
 <li>Los resúmenes no siempre conservan el contexto completo.</li>
 <br>
 Referencia: SMMRY. (n.d.). SMMRY. https://smmry.com/
+<br>
 
 #### 2. Generación de texto
-🧩 Herramienta: Hugging Face Spaces (Transformers Chat)
-Descripción: Es una plataforma de modelos abiertos (como GPT-2, BLOOM, etc.) donde se pueden generar textos de manera gratuita.
+**Hugging Face Spaces (Transformers Chat)** Es una plataforma de modelos abiertos (como GPT-2, BLOOM, etc.) donde se pueden generar textos de manera gratuita.
 <br>
 Ventajas:
 <li>Completamente gratuita y con muchos modelos.</li>
@@ -39,8 +38,8 @@ Desventajas:
 <br>
 Referencia: Hugging Face. (n.d.). Transformers Chat. https://huggingface.co/chat/
 <br>
-🧩 Herramienta: WriteSonic (ChatSonic versión gratuita)
-Descripción: Un chatbot estilo ChatGPT que genera textos con información más actualizada.
+
+**WriteSonic (ChatSonic versión gratuita)** Un chatbot estilo ChatGPT que genera textos con información más actualizada.
 <br>
 Ventajas:
 <li>Tiene conocimiento de eventos recientes.</li>
@@ -52,11 +51,11 @@ Desventajas:
 <br>
 Referencia: WriteSonic. (2023). ChatSonic. https://writesonic.com/chat
 <br>
-####🎨 3. Generación de imágenes
+
+#### 3. Generación de imágenes
 <br>
-🧩 Herramienta: Craiyon (antes DALL·E mini)
-<br>
-Descripción: Generador de imágenes a partir de texto, basado en inteligencia artificial libre.
+
+**Herramienta: Craiyon (antes DALL·E mini)** Generador de imágenes a partir de texto, basado en inteligencia artificial libre.
 <br>
 Ventajas:
 <br>
@@ -69,8 +68,8 @@ Desventajas:
 <br>
 Referencia: Craiyon. (n.d.). Craiyon AI. https://www.craiyon.com/
 <br>
-🧩 Herramienta: Bing Image Creator (con DALL·E 3)
-Descripción: Microsoft ofrece este generador gratuito que usa DALL·E 3 para crear imágenes realistas a partir de texto.
+
+**Herramienta: Bing Image Creator (con DALL·E 3)** Microsoft ofrece este generador gratuito que usa DALL·E 3 para crear imágenes realistas a partir de texto.
 <br>
 Ventajas:
 <li>Resultados de muy buena calidad.</li>
@@ -82,9 +81,10 @@ Desventajas:
 <br>
 Referencia: Microsoft. (2023). Bing Image Creator. https://www.bing.com/create
 <br>
-#### 🔊 4. Generación de audio (voz desde texto)
-🧩 Herramienta: ElevenLabs (versión gratuita)
-Descripción: Generador de voz con calidad natural que convierte texto en audio.
+
+#### 4. Generación de audio (voz desde texto)
+
+**Herramienta: ElevenLabs (versión gratuita)** Generador de voz con calidad natural que convierte texto en audio.
 <br>
 Ventajas:
 <li>Voces muy realistas en varios idiomas.</li>
@@ -96,8 +96,8 @@ Desventajas:
 <br>
 Referencia: ElevenLabs. (2023). ElevenLabs Voice. https://www.elevenlabs.io/
 <br>
-🧩 Herramienta: TTSMP3
-Descripción: Conversor de texto a voz que permite seleccionar voces de diferentes idiomas.
+
+**Herramienta: TTSMP3** Conversor de texto a voz que permite seleccionar voces de diferentes idiomas.
 <br>
 Ventajas:
 <li>Fácil de usar sin registrarse.</li>
@@ -109,9 +109,10 @@ Desventajas:
 <br>
 Referencia: TTSMP3. (n.d.). Text to Speech MP3. https://ttsmp3.com/
 <br>
-#### 🎬 5. Generación de video
-🧩 Herramienta: Pika Labs (versión gratuita con acceso por Discord)
-Descripción: Permite generar clips de video cortos a partir de texto mediante IA. Funciona por ahora vía Discord.
+
+#### 5. Generación de video
+
+**Herramienta: Pika Labs (versión gratuita con acceso por Discord)** Permite generar clips de video cortos a partir de texto mediante IA. Funciona por ahora vía Discord.
 <br>
 Ventajas:
 <br>
@@ -124,8 +125,8 @@ Desventajas:
 <br>
 Referencia: Pika Labs. (2024). Pika Video AI. https://www.pika.art/
 <br>
-🧩 Herramienta: Runway ML (versión gratuita limitada)
-Descripción: Plataforma de IA creativa que permite generar y editar videos con modelos como Gen-2.
+
+**Herramienta: Runway ML (versión gratuita limitada)** Plataforma de IA creativa que permite generar y editar videos con modelos como Gen-2.
 <br>
 Ventajas:
 <li>Buena calidad de generación.</li>
@@ -134,5 +135,5 @@ Ventajas:
 Desventajas:
 <li>Versión gratuita tiene marca de agua y límite de minutos.</li>
 <li>Necesita conexión estable y registro.</li>
-
+<br>
 Referencia: Runway. (2023). Runway Gen-2. https://runwayml.com/
