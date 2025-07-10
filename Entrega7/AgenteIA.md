@@ -269,5 +269,3 @@ Gracias, Liseth. Con base en tu información, te propongo un **plan semanal opti
     
 
 ---
-
-¿Quieres que te lo pase en formato de Excel o Google Calendar también? ¿O te gustaría agregar fechas reales de entregas cuando te las den?
